@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"睢意博你个小胖子");
     NSLog(@"他有了喜欢的女孩子");
+    NSLog(@"他努力的减肥");
 }
 
 - (void)didReceiveMemoryWarning {
